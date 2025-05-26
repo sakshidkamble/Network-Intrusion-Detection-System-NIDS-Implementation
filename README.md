@@ -16,6 +16,7 @@ Analysis Module: The analysis module uses the Isolation Forest machine learning 
 GUI Module: The GUI module provides a user-friendly interface for interacting with the NIDS. Lisers can view real-time traffic logs, receive alerts, and generate reports. The interface is designed to be intuitive, making it easy for users to access critical information quickly.
 
 Reporting Module: This module generates detailed reports on detected intrusions, including the type of threat, affected systems, and recommended actions. The reports are customizable, allowing users to focus on specific types of data or incidents.
+
 ---
 Detailed system design:
 
@@ -166,3 +167,11 @@ Link: http://hdl.handle.net/10603/207041
 11) Design and Development Consideration for Intrusion Detection and Prevention Systems, Beigh Bilal Maqbool, Peer Mushtaq Ahmad, 16 May 2016, Shodhganga Link: http://hdl.handle.net/10603/90198
 
 12) Design and Analysis of Efficient Multilevel Security Model Using Cryptology Intrusion Detection and Prevention Systems, Makani, Ritu; Chaba, Yogesh, 15 April 2016, Shodhganga Link: http://hdl.handle.net/10603/81961
+
+---
+
+![WhatsApp Image 2025-05-25 at 18 21 40_2ae760e4](https://github.com/user-attachments/assets/c5d2a3ff-3c87-4e36-876b-0e0b4c9dec9b)  ---
+![WhatsApp Image 2025-05-25 at 18 20 32_5fd43750](https://github.com/user-attachments/assets/9b7e6aa8-fc96-494e-a749-2aa4007fa209) ---
+![WhatsApp Image 2025-05-25 at 18 20 12_cbd0d7d0](https://github.com/user-attachments/assets/1c5ba8f5-1c5d-4cb8-a5c1-62783886b441) ---
+![WhatsApp Image 2025-05-25 at 18 19 04_8cab601f](https://github.com/user-attachments/assets/b687fda8-4da2-49e8-9b4a-0561227c4a34) ---
+![WhatsApp Image 2025-05-25 at 18 19 42_fefd7d63](https://github.com/user-attachments/assets/4e05ce7f-2252-48d6-ad23-af86fd428049)
